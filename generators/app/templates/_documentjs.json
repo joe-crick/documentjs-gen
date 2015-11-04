@@ -1,0 +1,8 @@
+{
+  "sites": {
+    "documentCss": {
+      "glob": ~FILE-MASK~,
+      "dest": "~DEST~"
+    }
+  }
+}
