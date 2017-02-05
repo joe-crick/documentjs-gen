@@ -1,5 +1,7 @@
 # generator-can-element-gen
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/joe-crick/documentjs-gen.svg)](https://greenkeeper.io/)
+
 > [Yeoman](http://yeoman.io) generator
 
 
